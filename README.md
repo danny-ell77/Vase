@@ -39,6 +39,7 @@ The initial phase focuses on building a **Python wrapper around a Rust web serve
 - **Flask**: for its simplicity and extensibility.
 - **FastAPI**: for its type safety and modern design.
 - **Django**: for its structured, scalable architecture.
+- **Robyn**: for its applicability in this scenario
 
 ## Contributing
 Project Vase is in its early stages. Contributions, feedback, and ideas are welcome! Stay tuned for more as the concept evolves.
@@ -48,5 +49,5 @@ Project Vase is in its early stages. Contributions, feedback, and ideas are welc
 
 ---
 
-*"Project Vase — shaping the future of web frameworks with Rust and Python."*
+*"Project Vase - The Flask successor"*
 
